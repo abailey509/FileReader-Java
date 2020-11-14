@@ -1,0 +1,10 @@
+person
+man
+cat
+lizard
+bed
+plates
+armour
+boot
+keys
+watch
